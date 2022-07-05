@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\Projects\\DarkEngine.CodeCompression\\DarkEngine.CodeCompression\\DarkEngine.CodeCompression.csproj",
-      "projectName": "DarkEngine.CodeCompression",
-      "projectPath": "E:\\Work\\Projects\\DarkEngine.CodeCompression\\DarkEngine.CodeCompression\\DarkEngine.CodeCompression.csproj",
+      "projectUniqueName": "E:\\Work\\Projects\\CryptoCode\\CryptoCode\\CryptoCode.csproj",
+      "projectName": "CryptoCode",
+      "projectPath": "E:\\Work\\Projects\\CryptoCode\\CryptoCode\\CryptoCode.csproj",
       "packagesPath": "C:\\Users\\heito\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Projects\\DarkEngine.CodeCompression\\DarkEngine.CodeCompression\\obj\\",
+      "outputPath": "E:\\Work\\Projects\\CryptoCode\\CryptoCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
